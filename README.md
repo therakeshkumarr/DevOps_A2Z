@@ -966,3 +966,24 @@ Four Ace to Landing Your Dream Jobs
 10. [SCS-C01:AWS Certified Security - Specialty](https://www.exam-answer.com/amazon/scs-c01/question1)
 
 11. [MLS-C01:AWS Certified Machine Learning - Specialty](https://www.exam-answer.com/amazon/mls-c01/question1)
+
+**Happy Learning!**
+
+## 🛠️ Author
+This project is maintained by **[Rakesh Kumar Sahoo](https://github.com/therakeshkumarr)** 💡.
+Your feedback and contributions are welcome!
+
+📧 **Connect with me:**
+- **GitHub**: [Rakesh Kumar Sahoo](https://github.com/therakeshkumarr)
+- **LinkedIn**: [Rakesh Kumar Sahoo](https://www.linkedin.com/in/therakeshkumar/)
+
+---
+
+## ⭐ Support the Project
+
+If you found this project helpful, please consider:
+- **Starring** ⭐ the repository
+- **Sharing** it with your network
+- **Contributing** to its improvement
+
+---
