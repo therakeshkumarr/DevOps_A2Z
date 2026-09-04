@@ -1,4 +1,4 @@
-# HAPPY LEARNING 📌
+# ⭐ ALL YOU KNOW ABOUT DEVOPS ⭐
 
 ## Please Note that the tools marked in Blue are the Recommended ones. However, you can choose to study Yellow or Pink.
 
@@ -967,7 +967,7 @@ Four Ace to Landing Your Dream Jobs
 
 11. [MLS-C01:AWS Certified Machine Learning - Specialty](https://www.exam-answer.com/amazon/mls-c01/question1)
 
-**Happy Learning!**
+**⭐ Happy Learning ⭐**
 
 ## 🛠️ Author
 This project is maintained by **[Rakesh Kumar Sahoo](https://github.com/therakeshkumarr)** 💡.
