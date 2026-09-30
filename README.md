@@ -970,7 +970,7 @@ Four Ace to Landing Your Dream Jobs
 **⭐ Happy Learning ⭐**
 
 ## 🛠️ Author
-This project is maintained by **[Rakesh Kumar Sahoo](https://github.com/therakeshkumarr)** 💡.
+This project is maintained by **[Rakesh Kumar Sahoo](https://github.com/therakeshkumarr)** 💡
 Your feedback and contributions are welcome!
 
 📧 **Connect with me:**
