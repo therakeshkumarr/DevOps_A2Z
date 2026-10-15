@@ -4252,6 +4252,4 @@ Part 3 will cover:
 Linux File and Directory Management.
 
 You will move beyond navigating existing directories and begin working with files and directories yourself, including creating, viewing, copying, moving, renaming, locating, linking, and safely deleting them.
-
-
-
+---
