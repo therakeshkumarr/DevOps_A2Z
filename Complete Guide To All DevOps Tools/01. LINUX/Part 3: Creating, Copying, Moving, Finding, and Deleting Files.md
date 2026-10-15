@@ -5203,11 +5203,6 @@ ls server[1-3].log
 ls file[a-c].txt
 ```
 
-
-
-
-
-
 ---
 
 # Next Part
@@ -5217,3 +5212,4 @@ Part 4 will cover:
 Linux Users, Groups, Root, and sudo.
 
 You will learn how Linux identifies users, how UID and GID values work, where account information is stored, how users and groups are created and modified, what the root account really means, how `su` and `sudo` differ, and why least privilege is one of the most important principles in Linux administration.
+---
