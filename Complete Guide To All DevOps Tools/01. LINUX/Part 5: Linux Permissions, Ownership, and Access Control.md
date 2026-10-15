@@ -6364,5 +6364,5 @@ These are not separate commands, but you need them to understand the `chmod` com
 
 The biggest lesson from this note is that the diagnostic commands should normally come before the modification commands. When you see `Permission denied`, first use commands such as `whoami`, `id`, `ls -l`, `ls -ld`, `namei -l`, and `getfacl` to understand the problem. Only then decide whether `chmod`, `chown`, `chgrp`, or `setfacl` is actually the correct fix.
 
-
 Part 5 gives you the access-control foundation needed for the next stages of Linux administration, where users, files, processes, services, logs, networking, applications, and automation begin interacting with one another.
+---
