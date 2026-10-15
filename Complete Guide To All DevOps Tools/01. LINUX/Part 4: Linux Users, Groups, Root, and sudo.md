@@ -6216,7 +6216,6 @@ Verify again
 That is the habit you want to carry into real Linux and DevOps work.
 ---
 
-
 # Next Part
 
 Part 5 should build directly on this identity foundation:
@@ -6224,3 +6223,4 @@ Part 5 should build directly on this identity foundation:
 Linux File Ownership and Permissions.
 
 You will connect users and groups to actual filesystem access, including ownership, `rwx`, permission classes, numeric permissions, `chmod`, `chown`, `chgrp`, directory permissions, `umask`, special permissions, permission troubleshooting, and why `chmod 777` is usually the wrong response to a permissions problem.
+---
